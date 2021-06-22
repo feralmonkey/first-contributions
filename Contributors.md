@@ -230,6 +230,7 @@ Prawal Srivastava (https://github.com/PrawalSrivastava)
 - ran-research-lab
 Devanshi Mittal
 - Abdur Rahman
+- Travis Golob (https://github.com/feralmonkey)
 -[Ardhendu Reja](Hi sexy)
 - [Rohith ND](https://github.com/ndrohith09)
 - [kaenll20](https://github.com/lol792)
